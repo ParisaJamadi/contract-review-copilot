@@ -1,0 +1,8 @@
+CUSTOMER ORDER FORM
+
+Customer purchases annual software subscription.
+
+1. Fees are payable Net 30 from invoice date.
+2. Term is 12 months with renewal notice 60 days before expiry.
+3. Indemnity obligations are mutual and limited to third-party IP claims.
+4. Data processing follows the vendor's standard DPA.

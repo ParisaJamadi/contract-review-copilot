@@ -1,0 +1,22 @@
+[
+  {
+    "file": "nda_sample_1.txt",
+    "expected_decision": "approve_with_edits",
+    "expected_min_issues": 1
+  },
+  {
+    "file": "nda_sample_2.txt",
+    "expected_decision": "escalate",
+    "expected_min_issues": 3
+  },
+  {
+    "file": "order_form_1.txt",
+    "expected_decision": "approve",
+    "expected_min_issues": 0
+  },
+  {
+    "file": "order_form_2.txt",
+    "expected_decision": "escalate",
+    "expected_min_issues": 3
+  }
+]

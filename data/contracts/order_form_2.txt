@@ -1,0 +1,8 @@
+CUSTOMER ORDER FORM
+
+Customer purchases services and support.
+
+1. Payment timing is contingent on customer downstream cash collection.
+2. Agreement auto-renews annually without prior notice.
+3. Vendor provides broad one-sided indemnity for all claims.
+4. Customer may use service data for any purpose, including model training, without restriction.

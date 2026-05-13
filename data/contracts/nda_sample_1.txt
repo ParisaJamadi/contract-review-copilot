@@ -1,0 +1,9 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual NDA is entered into by and between Alpha Labs and Beta Systems.
+
+1. Confidential Information includes technical, financial, and business information disclosed in any form.
+2. Exclusions include information that is public, independently developed, or rightfully obtained from a third party.
+3. Confidentiality obligations survive for three (3) years from disclosure.
+4. Governing law is England and Wales.
+5. Liability is limited to direct damages and excludes indirect damages.
